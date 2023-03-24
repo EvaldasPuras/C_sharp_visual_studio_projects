@@ -1,0 +1,13 @@
+Pavarde             |Marke          |Amzius
+----------------------------------------
+|Jonas Jonauskas     |Nissan         |8|
+----------------------------------------
+
+|Petras Petrauskas   |Toyota         |7|
+----------------------------------------
+
+|Antanas Antanauskas |Honda          |5|
+----------------------------------------
+
+Intensyviausiai exploatuojamas automobilis:
+Honda ATG987 2012 125

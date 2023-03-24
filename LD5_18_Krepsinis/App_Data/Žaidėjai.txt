@@ -1,0 +1,14 @@
+Miami Heat;Jonauskas;Jonas;gynejas
+Orlando Magic;Petrauskas;Petras;centras
+Kauno Zalgiris;Antanauskas;Antanas;puolejas
+Vilniaus Lietuvos Rytas;Petraitis;Jonas;puolejas
+Cleveland Cavaliers;Gudraitis;Mantas;gynejas
+Chicago Bulls;Saulaitis;Martynas;centras
+Oklahoma Thunder;Vaikaitis;Linas;centras
+Los Angeles Clippers;Griffin;Blake;centras
+Prienu TonyBet;Begikas;Martynas;puolejas
+Los Angeles Lakers;Bryant;Kobe;gynejas
+Sacramento Kings;McLemore;Ben;puolejas
+Miami Heat;James;Lebron;gynejas
+Los Angeles Clippers;Jordan;Deandre;centras
+Chicago Bulls;Jordan;Michael;gynejas

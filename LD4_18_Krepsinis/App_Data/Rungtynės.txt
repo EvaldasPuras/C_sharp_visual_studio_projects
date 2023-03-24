@@ -1,0 +1,15 @@
+20160509
+Chicago Bulls;Jordan;Michael;16;24;2
+Kauno Zalgiris;Antanauskas;Antanas;20;12;3
+Vilniaus Lietuvos Rytas;Petraitis;Jonas;9;5;1
+Los Angeles Clippers;Griffin;Blake;5;15;1
+Cleveland Cavaliers;Gudraitis;Mantas;4;7;2
+Oklahoma Thunder;Vaikaitis;Linas;18;12;4
+Miami Heat;Jonauskas;Jonas;16;15;1
+Prienu TonyBet;Begikas;Martynas;19;16;5
+Sacramento Kings;McLemore;Ben;3;5;0
+Miami Heat;James;Lebron;7;10;1
+Los Angeles Lakers;Bryant;Kobe;14;24;2
+Los Angeles Clippers;Jordan;Deandre;17;15;3
+Orlando Magic;Petrauskas;Petras;12;4;2
+Chicago Bulls;Saulaitis;Martynas;5;1;3
